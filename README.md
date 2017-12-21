@@ -1,7 +1,7 @@
 BitllCoin integration/staging tree
 ================================
 
-http://www.bitllcoin.org
+http://www.bitllcoin.co
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 BitllCoin Developers
@@ -10,16 +10,28 @@ What is BitllCoin?
 ----------------
 
 BitllCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Algorithm -	Scrypt
+Type -	PoW
+Coin name -	BitllCoin
+Coin abbreviation -	BTLLC
+Address letter -	L
+RPC port -	30016
+P2P port -	30015
+Block reward -	100 coins
+Block halving -	450000 blocks
+Total coin supply -	100000000 coins
+Premine percent -	10%
+Premine amount -	10000000 coins
+
+Coinbase maturity -	5 blocks
+Target spacing -	2 minutes
+Target timespan -	4 minutes
+Transaction confirmations -	5 blocks
+
 
 For more information, as well as an immediately useable, binary version of
-the BitllCoin client sofware, see http://www.bitllcoin.org.
+the BitllCoin client sofware, see http://www.bitllcoin.co.
 
 License
 -------
