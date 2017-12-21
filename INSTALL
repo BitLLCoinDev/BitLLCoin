@@ -1,0 +1,9 @@
+Building BitllCoin
+
+See doc/readme-qt.rst for instructions on building BitllCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitllCoin.
+
+See doc/build-*.txt for instructions on building bitllcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitllCoin.
